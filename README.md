@@ -33,6 +33,9 @@ Rollup configuration to create minified production bundles for websites
   npm run watch
   ```
 
+- Testing the production build  
+  ( Run `./production/index.html` and view the output accordingly )
+
 <br/>
 
 ### Issues
