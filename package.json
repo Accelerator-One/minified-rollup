@@ -1,0 +1,23 @@
+{
+  "name": "minified-rollup",
+  "version": "1.0.0",
+  "description": "Rollup configuration to create minified production bundles for websites",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup --config rollup.config.js",
+    "watch": "rollup --config rollup.config.js --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Accelerator-One/minified-rollup.git"
+  },
+  "author": "Aditya Thakur",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Accelerator-One/minified-rollup/issues"
+  },
+  "homepage": "https://github.com/Accelerator-One/minified-rollup#readme",
+  "devDependencies": {
+    "rollup": "^2.46.0"
+  }
+}
